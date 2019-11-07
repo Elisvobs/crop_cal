@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CropCalendar</string>
+    <string name="bean_family">Bean Family</string>
+    <string name="potato_family">Potato Family</string>
+    <string name="onion_family">Onion Family</string>
+    <string name="melon_family">Melon Family</string>
+    <string name="daisy_family">Lettuce Family</string>
+    <string name="carrot_family">Carrot Family</string>
+    <string name="cabbage_family">Cabbage Family</string>
+    <string name="beetroot_family">Beetroot Family</string>
 </resources>

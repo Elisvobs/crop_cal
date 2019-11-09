@@ -9,6 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".PotatoActivity"></activity>
+        <activity android:name=".OnionActivity" />
+        <activity android:name=".CucurbitActivity" />
+        <activity android:name=".DaisyActivity" />
+        <activity android:name=".CarrotActivity" />
+        <activity android:name=".BrassicaActivity" />
+        <activity android:name=".BeetActivity" />
+        <activity android:name=".BeanActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
